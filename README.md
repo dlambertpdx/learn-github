@@ -1,3 +1,4 @@
 # Learn Github
 
 This is a throwaway repo used to learn about working with Git and GitHub.
+Adding an additional sentence.
